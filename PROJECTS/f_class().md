@@ -1,4 +1,4 @@
-[DarkSystemCD®](https://github.com/DarkSystemCD) \ [JavaScript](https://github.com/DarkSystemCD/JavaScript) \ [PROJECTS](https://github.com/DarkSystemCD/JavaScript/PROJECTS) \ **f_class()**
+[DarkSystemCD®](https://github.com/DarkSystemCD) \ [JavaScript](https://github.com/DarkSystemCD/JavaScript) \ [PROJECTS]() \ **f_class()**
 <p align="center">
   <img src="https://i.imgur.com/e3jUBda.jpg" title="BloodArt: Computer Software" height="320" width="780">
 </p>
